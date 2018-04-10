@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!--圆角进度条-->
+    <declare-styleable name="Progress">
+        <attr name="textSize" format="dimension"/>
+        <attr name="frameColor" format="color"/>
+        <attr name="bgColor" format="color"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+
+</resources>
